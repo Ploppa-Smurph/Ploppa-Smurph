@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Java, Kotlin, Pentest, Network Security
 - 🌱 I’m currently learning Python, Docker, Virtual Machines, Kotlin, Kubernetes
 - 💞️ I’m looking to collaborate on my studies
-- 📫 How to reach me ...
+- 📫 How to reach me jeffreywalley@student.bpcc.edu
 
 <!---
 Ploppa-Smurph/Ploppa-Smurph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
