@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ploppa-Smurph
 - 👀 I’m interested in Python, Java, Kotlin, Pentest, Network Security
 - 🌱 I’m currently learning Python, Virtual Machines, Java, and Networking
+- 🐱‍🏍 Certifications: TestOut IT Fundamental Pro Certification
 - 💞️ I’m looking to collaborate on my studies
 - 📫 How to reach me jeffreywalley@student.bpcc.edu
 
