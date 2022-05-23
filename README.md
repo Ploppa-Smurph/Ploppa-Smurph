@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python, Virtual Machines, Java, and Networking
 - 🐱‍🏍 Certifications: TestOut IT Fundamental Pro Certification
 - 💞️ I’m looking to collaborate on my studies
+- Flickr: https://www.flickr.com/photos/195704163@N06/
+- Linkedin: https://www.linkedin.com/in/j-s-walley/
 - 📫 How to reach me jeffreywalley@student.bpcc.edu
 
 <!---
