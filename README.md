@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ploppa-Smurph
 - 👀 I’m interested in Python, Java, Kotlin, Pentest, Network Security
 - 🌱 I’m currently learning Python, Virtual Machines, Java, and Networking
-- 🐱‍🏍 Certifications: TestOut IT Fundamental Pro Certification
+- 🐱‍🏍 Certifications: TestOut IT Fundamental Pro; CompTIA ITF+
 - 💞️ I’m looking to collaborate on my studies
 - Flickr: https://www.flickr.com/photos/195704163@N06/
 - Linkedin: https://www.linkedin.com/in/j-s-walley/
