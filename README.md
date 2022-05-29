@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ploppa-Smurph
-- 👀 I’m interested in Python, Java, Kotlin, Pentest, Network Security
+- 👀 I’m interested in React, Front End, Java, Python, Network Security
 - 🌱 I’m currently learning Python, Virtual Machines, Java, and Networking
 - 🐱‍🏍 Certifications: TestOut IT Fundamental Pro; CompTIA ITF+
 - 💞️ I’m looking to collaborate on my studies
