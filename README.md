@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ploppa-Smurph
 - 👀 I’m interested in React, Front End, Java, Python, Network Security
 - 🌱 I’m currently learning Python, Virtual Machines, Java, and Networking
-- 🐱‍🏍 Certifications: TestOut IT Fundamental Pro; CompTIA ITF+
+- 🐱‍🏍 Certifications: TestOut IT Fundamental Pro; CompTIA ITF+;  Tech Talent South CodeSHV Java Bootcamp
 - 💞️ I’m looking to collaborate on my studies
 - Flickr: https://www.flickr.com/photos/195704163@N06/
 - Linkedin: https://www.linkedin.com/in/j-s-walley/
