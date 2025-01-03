@@ -15,6 +15,8 @@ I'm a student focusing on DevOps and Security, passionate about working with Pro
 ## 🏆 Certifications
 - **CompTIA**: ITF+, A+, Network+, Security+
 - **CompTIA Stack**: CIOS, CSIS
+- **Cisco**: CCNA I
+- **Red Hat Linux**: Red Hat System Administration I
 
 ## 📫 Connect with Me
 - [Flickr](https://www.flickr.com/photos/195704163@N06/)
@@ -25,9 +27,4 @@ I'm a student focusing on DevOps and Security, passionate about working with Pro
 - I'm a fan of Networking, Music, Hardware Hacking, Graphic Art and Design.
 - I love spending time with all my friends, family, and pets.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ploppa-Smurph) 
-
-<!---
-Ploppa-Smurph/Ploppa-Smurph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://komarev.com/ghpvc/?username=Ploppa-Smurph)
